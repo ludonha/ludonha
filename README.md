@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ludonha
+- 👀 I’m interested in Data science.
+- 🌱 I’m currently learning Javascript and CSS.
+- 💞️ I’m looking to collaborate on personal project.
+- 📫 How to reach me <a href = "https://www.linkedin.com/in/lucas-donha/">linkedin</a>
